@@ -63,9 +63,9 @@ Your web application should look similar to the screenshot below when the page i
 In particular, make sure the following is true:
 
 - [ ] There is a header that includes
-  - [ ] The application's title
-  - [ ] a search form with a label, text input, and submit input
-- [ ] `aside` (will contain a temperature conversion widget), starts empty
+  - [x] The application's title
+  - [x] a search form with a label, text input, and submit input
+- [x] `aside` (will contain a temperature conversion widget), starts empty
 - [ ] The `main `section of the page contains placeholder text and contain the following elements:
   - [ ] `article` - this will contain the current weather (starts empty)
   - [ ] `aside` - this will contain 3 `article` elements that will have upcoming weather (starts empty)
